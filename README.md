@@ -3,6 +3,7 @@
 Meu nome é **Nathaly Gabriely da Silva**
 
 - Sou aluna do primeiro ano B;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - tenho 15 anos;
 - ultilizo esse perfil para compartilhar meus projetos desenvolvios;
 
